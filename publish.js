@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://jisouu.com',
 	JumpPage,
-	'https://jisouwang88.com',
+	'https://jisouw.com',
 	
 ];
 var notices = [
