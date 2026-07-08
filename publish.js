@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'tkynkocr.cc/', 
+	'tkynkocr.cc/', 
+    'tkynkocr.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://jisouw.com";
