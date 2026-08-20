@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'iyammbtdo.cc/', 
+	'iwdzynyg.cc/', 
 	'qfnvtgnd.cc/', 
     'wuoadoig.cc/',
 ];                                                                                                                  
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://jisouu.com',
 	JumpPage,
-	'https://btykbidgu.cc',
+	'https://rigmbydn.cc',
 	
 ];
 var notices = [
