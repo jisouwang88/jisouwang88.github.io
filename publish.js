@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://jisouu.com',
 	JumpPage,
-	'https://rigmbydn.cc',
+	'https://ireacegvj.cc',
 	
 ];
 var notices = [
