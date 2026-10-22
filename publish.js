@@ -42,7 +42,7 @@ var urls=[
 	'kefudkaad.cc',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw12.net";
+var JumpPage="https://52cgw13.net";
 
 var newestUrls = [];
 
