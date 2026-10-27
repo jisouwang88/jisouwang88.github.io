@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'iwkelcprc.cc',
 	'fn31zn9m.cc',
 	'3m5pqd25i.cc',
-	'nw40j53w.cc',
 ];                                                                                                                  
 
 var JumpPage="https://52cgw13.net";
