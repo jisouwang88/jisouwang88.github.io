@@ -42,7 +42,7 @@ var urls=[
 	'3m5pqd25i.cc',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw13.net";
+var JumpPage="https://52cgw14.net";
 
 var newestUrls = [];
 
