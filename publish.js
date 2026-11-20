@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'zmgjfftx.cc',
 	'vqdogwroa.cc',
 	'hudkxobz.cc',
-	'pyrmhognr.cc',
 ];                                                                                                                  
 
 var JumpPage="https://52cgw16.net";
