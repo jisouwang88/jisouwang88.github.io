@@ -42,7 +42,7 @@ var urls=[
 	'vqdogwroa.cc',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw16.net";
+var JumpPage="https://52cgw18.net";
 
 var newestUrls = [];
 
